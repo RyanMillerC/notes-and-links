@@ -22,4 +22,5 @@ A collection of notes and links that I've found useful.
 
 ## React
 
+* [Calling a React component's methods from outside of React. Demo](https://gist.github.com/primaryobjects/64734b8fe3f54aa637f444c95f061eed)
 * [How to integrate React into an existing app?](https://reactarmory.com/answers/how-to-integrate-react-into-existing-app)
