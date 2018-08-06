@@ -19,3 +19,7 @@ A collection of notes and links that I've found useful.
 * [Printable Progress Bar for Python](https://gist.github.com/RyanMillerC/fc7a8933e09fc84727fc03003f90a7d3)
 * [Python Exception Class Hierarchy](https://airbrake.io/blog/python-exception-handling/class-hierarchy)
 * [Python Idioms: Multiline Strings](https://amir.rachum.com/blog/2018/06/23/python-multiline-idioms/)
+
+## React
+
+* [How to integrate React into an existing app?](https://reactarmory.com/answers/how-to-integrate-react-into-existing-app)
