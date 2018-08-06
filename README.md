@@ -22,5 +22,8 @@ A collection of notes and links that I've found useful.
 
 ## React
 
+* [Adding create-react-app scripts to an existing project](http://fredrik.anderzon.se/2016/12/04/adding-create-react-app-scripts-to-an-existing-project/)
 * [Calling a React component's methods from outside of React. Demo](https://gist.github.com/primaryobjects/64734b8fe3f54aa637f444c95f061eed)
 * [How to integrate React into an existing app?](https://reactarmory.com/answers/how-to-integrate-react-into-existing-app)
+* [Invoking ReactDom.Render() From Outside of React](https://medium.com/@michaelbrazell/invoking-reactdom-render-from-outside-of-react-86c3a3350bd7)
+* [unpkg - fast, global content delivery network for everything on npm](https://unpkg.com/#/)
