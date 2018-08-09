@@ -26,4 +26,5 @@ A collection of notes and links that I've found useful.
 * [Calling a React component's methods from outside of React. Demo](https://gist.github.com/primaryobjects/64734b8fe3f54aa637f444c95f061eed)
 * [How to integrate React into an existing app?](https://reactarmory.com/answers/how-to-integrate-react-into-existing-app)
 * [Invoking ReactDom.Render() From Outside of React](https://medium.com/@michaelbrazell/invoking-reactdom-render-from-outside-of-react-86c3a3350bd7)
+* [The Right Way to Test React Components](https://medium.freecodecamp.org/the-right-way-to-test-react-components-548a4736ab22)
 * [unpkg - fast, global content delivery network for everything on npm](https://unpkg.com/#/)
