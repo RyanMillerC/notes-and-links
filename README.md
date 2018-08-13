@@ -8,6 +8,7 @@ A collection of notes and links that I've found useful.
 
 ## MacOS
 
+* [gpg: signing failed: Inappropriate ioctl for device](https://github.com/keybase/keybase-issues/issues/2798)
 * [How do I install the Git man pages on OS X?](https://stackoverflow.com/questions/8025309/how-do-i-install-the-git-man-pages-on-os-x)
 * [Install and Use GNU Command Line Tools on macOS/OS X](https://www.topbug.net/blog/2013/04/14/install-and-use-gnu-command-line-tools-in-mac-os-x/)
 * [MacOS Keyboard Shortcuts](https://www.danrodney.com/mac/)
