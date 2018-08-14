@@ -22,6 +22,7 @@ A collection of notes and links that I've found useful.
 #### Official Documentation
 
 * [os.path — Common pathname manipulations](https://docs.python.org/2/library/os.path.html)
+* [shutil — High-level file operations](https://docs.python.org/2/library/shutil.html)
 
 #### Other
 
