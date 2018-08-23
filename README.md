@@ -31,6 +31,10 @@ A collection of notes and links that I've found useful.
 * [Python Exception Class Hierarchy](https://airbrake.io/blog/python-exception-handling/class-hierarchy)
 * [Python Idioms: Multiline Strings](https://amir.rachum.com/blog/2018/06/23/python-multiline-idioms/)
 
+## Raspberry Pi
+
+* [Setup WiFi for Headless Raspberry Pi Installation](https://gist.github.com/RyanMillerC/4e15967d2d1527382e3a3cebefcd5eea)
+
 ## React
 
 * [Adding create-react-app scripts to an existing project](http://fredrik.anderzon.se/2016/12/04/adding-create-react-app-scripts-to-an-existing-project/)
