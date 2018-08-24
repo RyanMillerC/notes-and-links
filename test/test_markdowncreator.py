@@ -24,3 +24,15 @@ def test_markdowncreator_create_title():
     output = markdowncreator.create_title(title)
     expected = '# notes-and-links\n'
     assert output == expected
+
+
+def test_markdowncreator_create_section():
+    """Test that markdown section is created correctly.
+    """
+    # Setup
+    section = 'Python'
+
+    # Assertion
+    output = markdowncreator.create_section(section)
+    expected = '## Python\n'
+    assert output == expected

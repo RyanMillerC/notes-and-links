@@ -8,3 +8,7 @@ def create_link(title, link):
 
 def create_title(title):
     return '# {}\n'.format(title)
+
+
+def create_section(section):
+    return '## {}\n'.format(section)
