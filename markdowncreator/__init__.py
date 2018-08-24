@@ -39,8 +39,30 @@ def main(**kwargs):
         elif kwargs.get(arg) is None:
             raise AttributeError('{} is None, this should be set'.format(arg))
 
-    log.debug(kwargs)
-    log.info('It works!')
+    log.debug('kwargs are: {}'.format(kwargs))
+
+    # Read README.md
+    with open('README.md', 'r') as stream:
+        readme = stream.readlines()
+
+    # Create Markdown strings
+    md_link = create_link(kwargs.title, kwargs.link)
+    md_section = create_section(kwargs.section)
+    if kwargs.subsection:
+        md_subsection = create_subsection(kwargs.subsection)
+
+    # Verify md_link does not exist in file
+    for line in readme:
+        if line == md_link:
+            log.error('This link is already in README.md')
+            exit(1)
+
+    sections = Encase()
+    for index, line in enumerate(readme):
+        if line[0:2] == '##':
+            sections.set(line, index)
+
+    log.info(readme)
 
 
 def create_link(title, link):
