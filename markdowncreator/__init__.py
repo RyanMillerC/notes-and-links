@@ -55,5 +55,5 @@ def create_subsection(sub):
     return '#### {}\n'.format(sub)
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     main(link="LINK", title="TITLE", section="SECTION")
