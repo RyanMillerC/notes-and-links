@@ -19,9 +19,10 @@ import conlog
 from docopt import docopt
 from encase import Encase
 
+log = conlog.start(level='DEBUG')
+
 
 def main(**kwargs):
-    log = conlog.start(level='DEBUG')
     kwargs = Encase(kwargs)
 
     # If running from CLI
@@ -52,10 +53,6 @@ def main(**kwargs):
         md_subsection = create_subsection(kwargs.subsection)
 
     # Verify md_link does not exist in file
-    for line in readme:
-        if line == md_link:
-            log.error('This link is already in README.md')
-            exit(1)
 
     sections = Encase()
     for index, line in enumerate(readme):
@@ -75,6 +72,34 @@ def create_section(section):
 
 def create_subsection(sub):
     return '#### {}\n'.format(sub)
+
+
+def _fatal_error(message=None):
+    """Log a critial error message and exit the program.
+
+    :param str message:
+        Optional message to display before exiting
+    """
+    if message:
+        self.log.critical(message)
+    self.log.critical('Exit code 1')
+    exit(1)
+
+
+def _exp_handler(exp, fatal=False):
+    """Handle error exceptions. Stop running program if fatal.
+
+    :param Exception exp:
+        Exception raised from calling method
+    :param bool fatal:
+        False - will log error and continue
+        True - will cause program to exit 1 after logging incident
+    """
+    if fatal:
+        self.log.critical('{}: {}'.format(type(exp).__name__, exp))
+        self._fatal_error()
+    else:
+        self.log.error('{}: {}'.format(type(exp).__name__, exp))
 
 
 if __name__ == '__main__':
