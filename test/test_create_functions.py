@@ -14,18 +14,6 @@ def test_markdowncreator_create_link():
     assert output == expected
 
 
-def test_markdowncreator_create_title():
-    """Test that markdown title is created correctly.
-    """
-    # Setup
-    title = 'notes-and-links'
-
-    # Assertion
-    output = markdowncreator.create_title(title)
-    expected = '# notes-and-links\n'
-    assert output == expected
-
-
 def test_markdowncreator_create_section():
     """Test that markdown section is created correctly.
     """
