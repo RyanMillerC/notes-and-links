@@ -12,3 +12,7 @@ def create_title(title):
 
 def create_section(section):
     return '## {}\n'.format(section)
+
+
+def create_subsection(sub):
+    return '#### {}\n'.format(sub)

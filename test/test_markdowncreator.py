@@ -36,3 +36,15 @@ def test_markdowncreator_create_section():
     output = markdowncreator.create_section(section)
     expected = '## Python\n'
     assert output == expected
+
+
+def test_markdowncreator_create_subsection():
+    """Test that markdown sub-section is created correctly.
+    """
+    # Setup
+    sub = 'Python Subsection'
+
+    # Assertion
+    output = markdowncreator.create_subsection(sub)
+    expected = '#### Python Subsection\n'
+    assert output == expected
