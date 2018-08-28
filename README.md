@@ -6,6 +6,10 @@ A collection of notes and links that I've found useful.
 
 * [Parameter Substitution](https://www.tldp.org/LDP/abs/html/parameter-substitution.html)
 
+## Google
+
+* [DORK Cheatsheet](https://www.alienvault.com/blog-content/GoogleHackingCheatSheet.pdf)
+
 ## MacOS
 
 * [gpg: signing failed: Inappropriate ioctl for device](https://github.com/keybase/keybase-issues/issues/2798)
