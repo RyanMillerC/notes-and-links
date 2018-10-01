@@ -9,6 +9,7 @@ A collection of notes and links that I've found useful.
 ## GitHub
 
 * [Git-labelmaker Labels](https://gist.github.com/RyanMillerC/18d1e40eb9d5283ceebf74484aa0d928)
+* [Useful Git Commands](/git.md)
 
 ## Google
 
