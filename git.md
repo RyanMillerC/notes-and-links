@@ -8,7 +8,11 @@
   - Force-delete a local branch.
 + `git remote prume origin`
   - Remove branches no longer being tracked upstream.
-+ `git stash --include-untracked`
-  - Stash untracked files, but exclude files in *.gitignore*.
 + `git stash --all`
   - Stash **ALL** files, even those in *.gitignore*.
++ `git stash --include-untracked`
+  - Stash untracked files, but exclude files in *.gitignore*.
++ `git stash clear`
+  - Drop all stashes. 
++ `git stash drop`
+  - Drop latest stash.
