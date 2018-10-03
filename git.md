@@ -6,8 +6,12 @@
   - List all branches, including remote branches.
 + `git branch -D`
   - Force-delete a local branch.
++ `git clean -d [-i|-f]`
+  - Remove untracked files. `-n` for dry run. `-i` for interactively. `-f` for bulk removal.  
 + `git remote prume origin`
   - Remove branches no longer being tracked upstream.
++ `git reset --hard`
+  - Reset local directory to the last committed state. This will leave untracked files.
 + `git stash --all`
   - Stash **ALL** files, even those in *.gitignore*.
 + `git stash --include-untracked`
