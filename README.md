@@ -52,3 +52,7 @@ A collection of notes and links that I've found useful.
 * [Invoking ReactDom.Render() From Outside of React](https://medium.com/@michaelbrazell/invoking-reactdom-render-from-outside-of-react-86c3a3350bd7)
 * [The Right Way to Test React Components](https://medium.freecodecamp.org/the-right-way-to-test-react-components-548a4736ab22)
 * [unpkg - fast, global content delivery network for everything on npm](https://unpkg.com/#/)
+
+## Powershell
+
+* [Better Git in Powershell](https://github.com/dahlbyk/posh-git)
