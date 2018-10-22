@@ -4,6 +4,7 @@ A collection of notes and links that I've found useful.
 
 ## Bash
 
+* [Conditionals](http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_07_01.html)
 * [Parameter Substitution](https://www.tldp.org/LDP/abs/html/parameter-substitution.html)
 
 ## GitHub
