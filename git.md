@@ -6,6 +6,8 @@
   - List all branches, including remote branches.
 + `git branch -D`
   - Force-delete a local branch.
++ `git checkout {branch-name} -- {file}`
+  - Checkout a file from another branch into the current branch
 + `git clean -d [-i|-f]`
   - Remove untracked files. `-n` for dry run. `-i` for interactively. `-f` for bulk removal.  
 + `git remote prume origin`
