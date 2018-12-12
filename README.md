@@ -9,8 +9,9 @@ A collection of notes and links that I've found useful.
 * [Echo to stderr](https://stackoverflow.com/questions/2990414/echo-that-outputs-to-stderr)
 * [Parameter Substitution](https://www.tldp.org/LDP/abs/html/parameter-substitution.html)
 
-## GitHub
+## Git/GitHub
 
+* [Add Executable Bit to Indexed File](https://stackoverflow.com/questions/21691202/how-to-create-file-execute-mode-permissions-in-git-on-windows)
 * [Git-labelmaker Labels](https://gist.github.com/RyanMillerC/18d1e40eb9d5283ceebf74484aa0d928)
 * [Useful Git Commands](/git.md)
 
