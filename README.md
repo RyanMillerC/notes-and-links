@@ -19,6 +19,10 @@ A collection of notes and links that I've found useful.
 
 * [DORK Cheatsheet](https://www.alienvault.com/blog-content/GoogleHackingCheatSheet.pdf)
 
+## JSON
+
+* [Google JSON Style Guide](https://google.github.io/styleguide/jsoncstyleguide.xml)
+
 ## MacOS
 
 * [gpg: signing failed: Inappropriate ioctl for device](https://github.com/keybase/keybase-issues/issues/2798)
