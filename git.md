@@ -20,6 +20,9 @@
 + `git reset --hard`
   - Reset local directory to the last committed state. This will leave untracked files.
 
++ `git show {COMMIT}`
+  - Show changes from a specific commit
+
 + `git stash --all`
   - Stash **ALL** files, even those in *.gitignore*.
 
