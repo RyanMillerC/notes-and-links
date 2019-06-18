@@ -64,3 +64,7 @@ A collection of notes and links that I've found useful.
 ## Powershell
 
 * [Better Git in Powershell](https://github.com/dahlbyk/posh-git)
+
+## VS Code
+
+* [ES7 React/Redux/React-Native/JS snippets](https://github.com/dsznajder/vscode-es7-javascript-react-snippets)
