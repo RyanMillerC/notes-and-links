@@ -2,13 +2,6 @@
 
 A collection of notes and links that I've found useful.
 
-## Bash
-
-* [Conditionals](http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_07_01.html)
-* [Useful \*nix Commands](/cmds.md)
-* [Echo to stderr](https://stackoverflow.com/questions/2990414/echo-that-outputs-to-stderr)
-* [Parameter Substitution](https://www.tldp.org/LDP/abs/html/parameter-substitution.html)
-
 ## Git/GitHub
 
 * [Add Executable Bit to Indexed File](https://stackoverflow.com/questions/21691202/how-to-create-file-execute-mode-permissions-in-git-on-windows)
@@ -48,6 +41,10 @@ A collection of notes and links that I've found useful.
 * [Python Exception Class Hierarchy](https://airbrake.io/blog/python-exception-handling/class-hierarchy)
 * [Python Idioms: Multiline Strings](https://amir.rachum.com/blog/2018/06/23/python-multiline-idioms/)
 
+## Powershell
+
+* [Better Git in Powershell](https://github.com/dahlbyk/posh-git)
+
 ## Raspberry Pi
 
 * [Setup WiFi for Headless Raspberry Pi Installation](https://gist.github.com/RyanMillerC/4e15967d2d1527382e3a3cebefcd5eea)
@@ -61,9 +58,14 @@ A collection of notes and links that I've found useful.
 * [The Right Way to Test React Components](https://medium.freecodecamp.org/the-right-way-to-test-react-components-548a4736ab22)
 * [unpkg - fast, global content delivery network for everything on npm](https://unpkg.com/#/)
 
-## Powershell
+## Bash/Shell
 
-* [Better Git in Powershell](https://github.com/dahlbyk/posh-git)
+* [Conditionals](http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_07_01.html)
+* [Echo to stderr](https://stackoverflow.com/questions/2990414/echo-that-outputs-to-stderr)
+* [Parameter Substitution](https://www.tldp.org/LDP/abs/html/parameter-substitution.html)
+* [Show only parents with jq](https://stackoverflow.com/a/33630944)
+* [Useful \*nix Commands](/cmds.md)
+
 
 ## VS Code
 
