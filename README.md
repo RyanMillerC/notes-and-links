@@ -70,3 +70,7 @@ A collection of notes and links that I've found useful.
 ## VS Code
 
 * [ES7 React/Redux/React-Native/JS snippets](https://github.com/dsznajder/vscode-es7-javascript-react-snippets)
+
+## Windows
+
+* [Network Share (CMD)](https://www.windows-commandline.com/list-create-delete-network-shares/)
