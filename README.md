@@ -58,7 +58,7 @@ A collection of notes and links that I've found useful.
 * [The Right Way to Test React Components](https://medium.freecodecamp.org/the-right-way-to-test-react-components-548a4736ab22)
 * [unpkg - fast, global content delivery network for everything on npm](https://unpkg.com/#/)
 
-## Bash/Shell
+## Shell (Bash)
 
 * [Conditionals](http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_07_01.html)
 * [Echo to stderr](https://stackoverflow.com/questions/2990414/echo-that-outputs-to-stderr)
@@ -66,6 +66,9 @@ A collection of notes and links that I've found useful.
 * [Show only parents with jq](https://stackoverflow.com/a/33630944)
 * [Useful \*nix Commands](/cmds.md)
 
+## VIM
+
+* [Fix Putty Weird Mouse Inserts on Click](https://superuser.com/questions/413351/weird-insertion-from-vim-on-mouse-click)
 
 ## VS Code
 
