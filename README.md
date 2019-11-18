@@ -61,7 +61,7 @@ A collection of notes and links that I've found useful.
 ## Shell (Bash)
 
 * [Conditionals](http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_07_01.html)
-* [Echo to stderr](https://stackoverflow.com/questions/2990414/echo-that-outputs-to-stderr)
+* [Echo to stderr](https://stackoverflow.com/a/23550347)
 * [Parameter Substitution](https://www.tldp.org/LDP/abs/html/parameter-substitution.html)
 * [Show only parents with jq](https://stackoverflow.com/a/33630944)
 * [Useful \*nix Commands](/cmds.md)
