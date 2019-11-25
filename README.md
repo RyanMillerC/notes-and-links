@@ -10,7 +10,7 @@ A collection of notes and links that I've found useful.
 
 ## Google
 
-* [DORK Cheatsheet](https://www.alienvault.com/blog-content/GoogleHackingCheatSheet.pdf)
+* <del>[DORK Cheatsheet](https://www.alienvault.com/blog-content/GoogleHackingCheatSheet.pdf)</del> Dead link
 
 ## JSON
 
