@@ -16,6 +16,11 @@ A collection of notes and links that I've found useful.
 
 * [Google JSON Style Guide](https://google.github.io/styleguide/jsoncstyleguide.xml)
 
+## Linux
+
+* [Increase XFS Filesystem](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/storage_administration_guide/xfsgrow)
+* [Reload Firewalld](https://firewalld.org/documentation/howto/reload-firewalld.html)
+
 ## MacOS
 
 * [gpg: signing failed: Inappropriate ioctl for device](https://github.com/keybase/keybase-issues/issues/2798)
