@@ -6,6 +6,7 @@ A collection of notes and links that I've found useful.
 
 * [Add Executable Bit to Indexed File](https://stackoverflow.com/questions/21691202/how-to-create-file-execute-mode-permissions-in-git-on-windows)
 * [Git-labelmaker Labels](https://gist.github.com/RyanMillerC/18d1e40eb9d5283ceebf74484aa0d928)
+* [GitHub spoiler markdown.md](https://gist.github.com/jbsulli/03df3cdce94ee97937ebda0ffef28287)
 * [Useful Git Commands](/git.md)
 
 ## Google
